@@ -1,0 +1,7 @@
+body{
+    height: 95vh;
+    width: 95vh;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
